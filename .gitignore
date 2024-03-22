@@ -1,0 +1,14 @@
+.env
+node_modules/
+package-lock.json
+
+logs/
+*.log
+
+# Directory for compiled output
+dist/
+
+# IDE and editor directories
+.idea/
+.vscode/
+.DS_Store
